@@ -1,0 +1,75 @@
+/* General body styling */
+body {
+  overflow: hidden;
+  background-color: #e0e0e0; /* Lighter background for better contrast */
+  margin: 0;
+} /* Defining the body of the document */
+
+/* Sidebar navigation */
+.sidebar {
+  width: 200px;
+  background-color: #005a8c; /* Accessible color for sidebar */
+  height: 100vh;
+} /* Navigation bar styled */
+
+/* Sidebar links */
+.sidebar a {
+  display: block;
+  color: #ffffff; /* White text for high contrast */
+  padding: 16px;
+  text-decoration: none;
+} /* Each link gets a block box with no text decoration */
+
+/* Active state for sidebar links */
+.sidebar a.active {
+  background-color: #003d5b; /* Darker shade for active link */
+} 
+
+/* Hover effect for sidebar links */
+.sidebar a:hover {
+  background-color: #004d75; /* Slightly lighter hover effect */
+  color: #ffffff; /* Ensure text remains white on hover */
+} /* Hover effect on sidebar links */
+
+/* Header styling */
+h1 {
+  color: #333333; /* Darker text for better readability */
+  font-size: 25px;
+  margin-top: -150px;
+  margin-left: 300px;
+} /* Adjust text positioning */
+
+/* Logo styling */
+.logo {
+  position: relative;
+  height: 100%;
+  width: 200px;
+} /* Adjust positioning of logo */
+
+/* Footer styling */
+.footer {
+  background-color: #db5e34; /* High-contrast footer color */
+  width: 100%;
+  height: 100vh;
+  margin-left: 200px;
+}
+
+/* Name styling for accessibility */
+.name {
+  position: absolute;
+  font-size: 50px;
+  color: #000000; /* High contrast text */
+  top: 520px;
+  left: 700px;
+  text-decoration: underline;
+}
+
+/* Image styling */
+.img {
+  position: absolute;
+  top: -75px;
+  left: 500px;
+}
+ 
+
+
