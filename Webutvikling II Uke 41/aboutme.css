@@ -1,0 +1,130 @@
+body {
+    background-image:url(bilder/Ola-5.jpg);
+    background-size:100%;
+    display: flex;
+ flex-wrap: wrap;
+}
+
+
+h1 {
+    color: white;
+    display: flex;
+ justify-content: center;
+ padding-left: 45%;
+ margin-top: 100px ;
+}
+
+.header {
+    background-color:rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 200px;
+    border-radius: 65px;
+    display: flex;
+    position: absolute;
+    top: 200px;
+}
+
+
+.p {
+    font-size: 25px;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 375px;
+    border-radius: 65px;
+    position: absolute;
+    top: 430px;
+}
+
+p {
+    text-align: center;
+    color:white;
+}
+
+.menu {
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 150px;
+    border-radius: 65px;
+    border-color: black;
+    border-width: 2px;
+}
+
+.topleft {
+    position: absolute;
+    top: -100px;
+    left: -900px
+}
+
+
+.home {
+    position: absolute;
+    margin-left: 200px;
+    top: 30px;
+    
+}
+
+.home:hover {
+    background-color: white;
+}
+
+
+.prosjekter {
+    position: absolute;
+    margin-left: 700px;
+    top: 30px;
+}
+
+.prosjekter:hover {
+    background-color: white;
+}
+
+.kontakt {
+    position: absolute;
+    margin-left: 1200px;
+    top: 30px;
+}
+
+.kontakt:hover {
+    background-color: white;
+    
+}
+
+
+.vector {
+    position: absolute;
+    left: -725px;
+    top: -50px;
+}
+
+
+.click {
+    position: absolute;
+    margin-left: 400px;
+    top: 30px;
+}
+.click:hover {
+    background-color: white;
+}
+
+.bbc { 
+    color: white;
+    position: absolute;
+    top: 650px;
+    font-size: 25px;
+    width: 50%;
+    left: 350px;
+    text-align: center;
+}
+
+
+a {
+    font-size: 30px;
+    color: blue;
+}
+
+.aliberg {
+    position: absolute;
+    top:30px;
+    left: 1000px;
+}
