@@ -103,3 +103,15 @@ h4 {
     left: 1400px;
     text-decoration: underline;
 }
+
+
+.navbar {
+    background-color: #333333;
+    height: 150px;
+    width: 2000px;
+    z-index: -1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.8);
+}
