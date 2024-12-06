@@ -1,14 +1,8 @@
 body {
-    background-image: url(backround/backround\,jpg.avif); /* Fixed the URL path and escaped the comma properly */
-    background-size: 100%;
+    background-color: black;
     background-repeat: no-repeat;
     overflow-x: hidden;
     overflow-y: scroll;
-}
-
-@font-face {
-    font-family: 'Lemonmilk'; 
-    src: url('C:/Users/stian/OneDrive - Osloskolen/IM Kuben VG1/Høstsemester/portifiole.v2/font/Lemonmilk.ttf'); 
 }
 
 a {
