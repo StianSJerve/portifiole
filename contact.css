@@ -1,15 +1,12 @@
 body {
-    background-image: url(backround/backround\,jpg.avif);
+    background-color: black;
     background-size: 100%;
     background-repeat: no-repeat;
  
 }
     
     
-    @font-face {
-        font-family: 'Lemonmilk' ;
-        src: url(C:\Users\stian\OneDrive - Osloskolen\IM Kuben VG1\Høstsemester\portifiole.v2\font);
-    }
+   
 
     .img {
         position: absolute;
