@@ -18,20 +18,27 @@ a:hover {
     text-decoration: none;
 }
 
+
 .home {
-    margin-left: 200px;
+    position: absolute;
+    left: 200px;
 }
 
 .about {
-    margin-left: 400px;
+    position: absolute;
+    left: 400px;
+    width: 100%;
 }
 
 .contact {
-    margin-left: 1200px;
+    position: absolute;
+    left: 1200px;
+    width: 100%;
 }
 
 .project {
-    margin-left: 1600px;
+    position: absolute;
+    left: 1600px;
 }
 
 .img {
