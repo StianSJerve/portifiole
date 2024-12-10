@@ -39,22 +39,10 @@ a:hover {
 }
 
 
-.video {
-    background-color: gray;
-    height: 500px;
-    width: 1000px;
+iframe {
     border-radius: 50px;
     margin-left: 400px;
 margin-top: 100px;
-}
-
-p {
-    color: white;
-    font-size: 30px;
-    font-family: 'Lemonmilk', sans-serif;
-    position: absolute;
-    top: 500px;
-    left: 850px;
 }
 
 h3 {
@@ -62,7 +50,7 @@ h3 {
     font-size: 40px;
     position: absolute;
     top: 800px;
-    left: 750px;
+    left: 650px;
 }
 
 
