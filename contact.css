@@ -31,23 +31,30 @@ body {
        }
        
        
-       .home {
-           margin-left: 200px;
-       }
+.home {
+    position: absolute;
+    left: 200px;
+}
+
+.about {
+    position: absolute;
+    left: 400px;
+    width: 100%;
+}
+
+.contact {
+    position: absolute;
+    left: 1200px;
+    width: 100%;
+}
+
+.project {
+    position: absolute;
+    left: 1600px;
+}
+
        
-       .about {
-           margin-left: 400px;
-       }
-       
-       
-       .contact {
-           margin-left: 1200px;
-       }
-       
-       .project {
-           margin-left: 1600px;
-       }
-       
+     
        .footer {
            background-color: gray;
            width: 100%;
