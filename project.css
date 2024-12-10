@@ -3,13 +3,9 @@ body {
     background-size: 100%;
     background-repeat: no-repeat;
     overflow-x: hidden;
-    overflow-y: scroll;}
+    overflow-y: scroll;
+}
     
-    
-    @font-face {
-        font-family: 'Lemonmilk' ;
-        src: url(C:\Users\stian\OneDrive - Osloskolen\IM Kuben VG1\Høstsemester\portifiole.v2\font);
-    }
 
 .img {
     position: absolute;
