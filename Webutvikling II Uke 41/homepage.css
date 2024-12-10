@@ -1,9 +1,10 @@
 
 
 body {
-    background-image: url(bilder/zk5s2j77qtx91.jpg);
+    background-color: brown;
     overflow: hidden;
     background-size: cover;
+    margin: 0;
 }
 
 
@@ -53,7 +54,6 @@ ul li a i {
 input {
     display: none;
     visibility: none;
-    -webkit-appearance: none;
 }
 
 .toggle {
